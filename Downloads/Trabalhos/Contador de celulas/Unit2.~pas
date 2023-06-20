@@ -1,0 +1,13 @@
+unit Unit2;
+
+interface
+//** inicio da classe cedula
+
+type
+Tcedular = class
+end;
+
+//**Fim da classe cedula
+implementation
+
+end.
